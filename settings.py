@@ -9,7 +9,7 @@ payload = {
     'login': {
         # Set up your account.
         'username': 'e16-byrk',
-        'password': 'mAsa_1717512',
+        'password': 'Mz5W9gZCuTP-JUYs',
         # Dont need to edit.
         'anchor': ''
     }
